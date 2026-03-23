@@ -1,0 +1,45 @@
+{
+  "cookies": [
+    {
+      "name": "language_code",
+      "value": "en",
+      "domain": "litecart.stqa.ru",
+      "path": "/",
+      "expires": 1776878617.363749,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart[uid]",
+      "value": "69c1771848b6d",
+      "domain": "litecart.stqa.ru",
+      "path": "/",
+      "expires": 1805822616.412208,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "currency_code",
+      "value": "USD",
+      "domain": "litecart.stqa.ru",
+      "path": "/",
+      "expires": 1776878617.363887,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "LCSESSID",
+      "value": "57cpke6hf0an5o7m6959m57i44",
+      "domain": "litecart.stqa.ru",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
