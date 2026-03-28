@@ -5,17 +5,17 @@
       "value": "en",
       "domain": "litecart.stqa.ru",
       "path": "/",
-      "expires": 1776878617.363749,
+      "expires": 1777291820.086855,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "cart[uid]",
-      "value": "69c1771848b6d",
+      "value": "69c7c52b029c5",
       "domain": "litecart.stqa.ru",
       "path": "/",
-      "expires": 1805822616.412208,
+      "expires": 1806235819.15249,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -25,14 +25,14 @@
       "value": "USD",
       "domain": "litecart.stqa.ru",
       "path": "/",
-      "expires": 1776878617.363887,
+      "expires": 1777291820.086953,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "LCSESSID",
-      "value": "57cpke6hf0an5o7m6959m57i44",
+      "value": "f0dn4pje2m88uh0r9u89k04467",
       "domain": "litecart.stqa.ru",
       "path": "/",
       "expires": -1,

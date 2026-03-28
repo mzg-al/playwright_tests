@@ -1,9 +1,18 @@
 {
   "name": "playwright_tests",
   "version": "1.0.0",
-  "description": "",
+  "description": "Playwright E2E tests for LiteCart",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "playwright test",
+    "test:chrome": "playwright test --project chromium",
+    "test:firefox": "playwright test --browser firefox",
+    "test:webkit": "playwright test --browser webkit",
+    "test:ui": "playwright test --ui",
+    "test:debug": "playwright test --debug",
+    "test:headed": "playwright test --headed",
+    "report": "playwright show-report"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
